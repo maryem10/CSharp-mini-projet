@@ -1,0 +1,12 @@
+Bienvenue dans l'application Gestion Etudiant réalisé par: ELAMRI Maryem .
+
+
+Ce document est un guide d'utilisation de l'application.
+
+1) le fichier Gestion_Etudiants.exe pour lancer l'application.
+
+2) username: user
+   password: root
+3) pour modifier ou suprimer on doit utiliser le numero par exemple :
+ supprission  un étudiant à partir de son numéro d'inscription .
+4)dans le dossier App vous trouverez Setup de l'application
